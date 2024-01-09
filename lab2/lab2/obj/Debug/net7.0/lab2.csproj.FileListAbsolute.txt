@@ -1,0 +1,29 @@
+C:\Users\nikha\RiderProjects\lab2\lab2\bin\Debug\net7.0\lab2.exe
+C:\Users\nikha\RiderProjects\lab2\lab2\bin\Debug\net7.0\lab2.deps.json
+C:\Users\nikha\RiderProjects\lab2\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+C:\Users\nikha\RiderProjects\lab2\lab2\bin\Debug\net7.0\lab2.dll
+C:\Users\nikha\RiderProjects\lab2\lab2\bin\Debug\net7.0\lab2.pdb
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.csproj.AssemblyReference.cache
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.dll
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\refint\lab2.dll
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.pdb
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+C:\Users\nikha\RiderProjects\lab2\lab2\obj\Debug\net7.0\ref\lab2.dll
+C:\Users\Юджин\Desktop\Новая папка\lab2\bin\Debug\net7.0\lab2.exe
+C:\Users\Юджин\Desktop\Новая папка\lab2\bin\Debug\net7.0\lab2.deps.json
+C:\Users\Юджин\Desktop\Новая папка\lab2\bin\Debug\net7.0\lab2.runtimeconfig.json
+C:\Users\Юджин\Desktop\Новая папка\lab2\bin\Debug\net7.0\lab2.dll
+C:\Users\Юджин\Desktop\Новая папка\lab2\bin\Debug\net7.0\lab2.pdb
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.AssemblyInfo.cs
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.dll
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\refint\lab2.dll
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.pdb
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\lab2.genruntimeconfig.cache
+C:\Users\Юджин\Desktop\Новая папка\lab2\obj\Debug\net7.0\ref\lab2.dll
